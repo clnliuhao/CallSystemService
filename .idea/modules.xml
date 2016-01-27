@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CallSystemService.iml" filepath="$PROJECT_DIR$/CallSystemService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/callsystemservice/callsystemservice.iml" filepath="$PROJECT_DIR$/callsystemservice/callsystemservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/call_system_service/call_system_service.iml" filepath="$PROJECT_DIR$/call_system_service/call_system_service.iml" />
     </modules>
   </component>
 </project>

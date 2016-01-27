@@ -9,7 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/callsystemservice" />
+            <option value="$PROJECT_DIR$/call_system_service" />
           </set>
         </option>
       </GradleProjectSettings>
